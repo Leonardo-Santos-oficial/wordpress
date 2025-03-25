@@ -1,0 +1,107 @@
+{
+    "title": "Silo Maker",
+    "content": "",
+    "excerpt": "",
+    "date": "2025-03-25 12:03:01",
+    "modified": "2025-03-25 12:03:01",
+    "slug": "silo-maker",
+    "type": "product",
+    "status": "publish",
+    "categories": [],
+    "tags": [],
+    "meta": {
+        "_edit_last": [
+            "1"
+        ],
+        "_edit_lock": [
+            "1742903962:1"
+        ],
+        "_is_software": [
+            "yes"
+        ],
+        "_software_product_id": [
+            ""
+        ],
+        "_software_license_key_prefix": [
+            ""
+        ],
+        "_software_secret_product_key": [
+            ""
+        ],
+        "_software_version": [
+            ""
+        ],
+        "_software_activations": [
+            "1"
+        ],
+        "_software_upgradable_product": [
+            ""
+        ],
+        "_software_upgrade_price": [
+            ""
+        ],
+        "_software_upgrade_license_keys": [
+            ""
+        ],
+        "_software_used_license_keys": [
+            ""
+        ],
+        "_regular_price": [
+            "97"
+        ],
+        "_sale_price": [
+            "47"
+        ],
+        "total_sales": [
+            "0"
+        ],
+        "_tax_status": [
+            "taxable"
+        ],
+        "_tax_class": [
+            ""
+        ],
+        "_manage_stock": [
+            "no"
+        ],
+        "_backorders": [
+            "no"
+        ],
+        "_sold_individually": [
+            "no"
+        ],
+        "_virtual": [
+            "no"
+        ],
+        "_downloadable": [
+            "no"
+        ],
+        "_download_limit": [
+            "-1"
+        ],
+        "_download_expiry": [
+            "-1"
+        ],
+        "_stock": [
+            null
+        ],
+        "_stock_status": [
+            "instock"
+        ],
+        "_wc_average_rating": [
+            "0"
+        ],
+        "_wc_review_count": [
+            "0"
+        ],
+        "_product_version": [
+            "9.7.1"
+        ],
+        "_price": [
+            "47"
+        ],
+        "_subscription_payment_sync_date": [
+            "0"
+        ]
+    }
+}
