@@ -1,0 +1,13 @@
+{
+    "title": "overpass;italic;300;100%;U+0-10FFFF",
+    "content": "{\"fontFamily\":\"Overpass\",\"fontStyle\":\"italic\",\"fontWeight\":\"300\",\"src\":\"http:\/\/localhost:10002\/wp-content\/uploads\/fonts\/qFdU35WCmI96Ajtm81GgSdXCNs-VMF0vNLBdepqKl8Kuosgz.woff2\",\"preview\":\"https:\/\/s.w.org\/images\/fonts\/wp-6.7\/previews\/overpass\/overpass-300-italic.svg\"}",
+    "excerpt": "",
+    "date": "2025-03-25 11:55:04",
+    "modified": "2025-03-25 11:55:04",
+    "slug": "overpassitalic300100u0-10ffff",
+    "type": "wp_font_face",
+    "status": "publish",
+    "categories": [],
+    "tags": [],
+    "meta": []
+}
