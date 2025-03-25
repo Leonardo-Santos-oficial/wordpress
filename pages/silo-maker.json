@@ -3,7 +3,7 @@
     "content": "",
     "excerpt": "",
     "date": "2025-03-25 18:20:20",
-    "modified": "2025-03-25 18:20:21",
+    "modified": "2025-03-25 18:35:47",
     "slug": "silo-maker",
     "type": "download",
     "status": "publish",
@@ -11,7 +11,7 @@
     "tags": [],
     "meta": {
         "_edit_lock": [
-            "1742926814:1"
+            "1742927745:1"
         ],
         "_edit_last": [
             "1"
@@ -33,6 +33,18 @@
         ],
         "edd_signup_fee": [
             "1"
+        ],
+        "_edd_download_earnings": [
+            "3.000000"
+        ],
+        "_edd_download_sales": [
+            "3"
+        ],
+        "_edd_download_gross_sales": [
+            "3"
+        ],
+        "_edd_download_gross_earnings": [
+            "3"
         ]
     }
 }
