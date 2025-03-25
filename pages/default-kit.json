@@ -1,0 +1,20 @@
+{
+    "title": "Default Kit",
+    "content": "",
+    "excerpt": "",
+    "date": "2025-03-25 21:15:23",
+    "modified": "2025-03-25 21:15:23",
+    "slug": "default-kit",
+    "type": "elementor_library",
+    "status": "publish",
+    "categories": [],
+    "tags": [],
+    "meta": {
+        "_elementor_edit_mode": [
+            "builder"
+        ],
+        "_elementor_template_type": [
+            "kit"
+        ]
+    }
+}
