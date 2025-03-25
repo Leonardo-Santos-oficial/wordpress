@@ -3,7 +3,7 @@
     "content": "",
     "excerpt": "",
     "date": "2025-03-25 18:20:20",
-    "modified": "2025-03-25 18:20:20",
+    "modified": "2025-03-25 18:20:21",
     "slug": "silo-maker",
     "type": "download",
     "status": "publish",
@@ -12,6 +12,27 @@
     "meta": {
         "_edit_lock": [
             "1742926814:1"
+        ],
+        "_edit_last": [
+            "1"
+        ],
+        "edd_price": [
+            "1.00"
+        ],
+        "edd_download_files": [
+            "a:1:{i:1;a:6:{s:5:\"index\";s:1:\"0\";s:13:\"attachment_id\";s:3:\"119\";s:14:\"thumbnail_size\";s:5:\"false\";s:4:\"name\";s:10:\"Silo Maker\";s:4:\"file\";s:64:\"http:\/\/localhost:10002\/wp-content\/uploads\/2025\/03\/Silo-Maker.zip\";s:9:\"condition\";s:3:\"all\";}}"
+        ],
+        "_edd_button_behavior": [
+            "add_to_cart"
+        ],
+        "edd_period": [
+            "month"
+        ],
+        "edd_recurring": [
+            "yes"
+        ],
+        "edd_signup_fee": [
+            "1"
         ]
     }
 }
